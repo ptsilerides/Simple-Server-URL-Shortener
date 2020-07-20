@@ -4,6 +4,10 @@ This repo contains a basic server. Below are steps on how to run the server.
 
 ## Getting Started	
 
+Requirments for running the below are Visual Studio and .NET Framework 4.7.2.
+
+## Demonstration of a Simple HTTP Web Server
+
 Load the SimpleHttpServer Solution in Visual Studio, I am using 2019 Community.
 
 Build and Run the application in debug mode:
@@ -14,10 +18,9 @@ This produces a blank window screen which represents our server waiting for a re
 
 Enter this Url in any Browser:     http://localhost:8080
 
-![](Images/Picture2.png)
-
 Two things happen, first the window now displays the details from your HTTP request including the Type: “Get”, HTTP version: 1.1, some browser details via headers including the host: localhost, followed by the server port which you typed in as 8080.  Also, your browser now shows a rendered page similar to:
 
+![](Images/Picture2.png)
 ![](Images/Picture3.png)
 
 Enter your name, replacing “FirstName” and press the Click button.
@@ -35,3 +38,4 @@ From here you can click “return” to redisplay the original page and try agai
 
 This completes the demonstration of a Simple Http Web Server. 
 
+## Demonstration of PRD Test Requirements for URL Shortner 

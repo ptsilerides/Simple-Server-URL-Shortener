@@ -19,6 +19,7 @@ Enter this Url in any Browser:     http://localhost:8080
 Two things happen, first the window now displays the details from your HTTP request including the Type: “Get”, HTTP version: 1.1, some browser details via headers including the host: localhost, followed by the server port which you typed in as 8080.  Also, your browser now shows a rendered page similar to:
 
 ![](Images/Picture3.png)
+
 Enter your name, replacing “FirstName” and press the Click button.
 
 Two more things happen. The click triggers a Post process in the server which updates the window now showing HTTP “Post” Type details. 

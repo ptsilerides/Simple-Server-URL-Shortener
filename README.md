@@ -9,6 +9,7 @@ Load the SimpleHttpServer Solution in Visual Studio, I am using 2019 Community.
 Build and Run the application in debug mode:
 
 ![](Images/Picture1.png)
+
 This produces a blank window screen which represents our server waiting for a request from the client.
 
 Enter this Url in any Browser:     http://localhost:8080

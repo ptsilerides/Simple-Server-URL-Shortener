@@ -1,6 +1,6 @@
 ## Simple Server
 
-This repo contains a basic server for a runnable MVP Demo in C# compiled to the .NET
+This repo contains a basic server. Below are steps on how to run the server.
 
 ## Getting Started	
 

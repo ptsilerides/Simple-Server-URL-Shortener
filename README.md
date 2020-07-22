@@ -6,7 +6,7 @@ This repo contains a basic server. Below are steps on how to run the server.
 
 Requirments for running the Simple HTTP Web Server are Visual Studio and .NET Framework 4.7.2.
 
-Requirments for running the URLShortener are Visual Studio and .NET SDK 3.1.
+Requirments for running the URLShortener are Visual Studio and .NET Core SDK 3.1.
 https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.302-windows-x64-installer
 
 ## Demonstration of a Simple HTTP Web Server

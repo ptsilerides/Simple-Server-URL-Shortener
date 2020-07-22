@@ -48,7 +48,7 @@ Build and Run the application in Visual Studio. A new page should open in your d
 
 ![](Images/Picture5.png)
 
-Please enter the 3 required fields and click the blue button to “Shorten Url”.
+Please enter the 3 required fields and click the blue button to “Shorten URL”.
 
 A new page will be displayed with the key data lines shown below:
 
@@ -56,5 +56,5 @@ A new page will be displayed with the key data lines shown below:
 
 Click the second link, the Short URL. This will redirect you to a page whose actual URL value will be the Original URL. 
 
-This completes the demonstration of the URL Shortnener. 
+This completes the demonstration of the URL Shortener. 
 

@@ -4,11 +4,11 @@ This repo contains a basic server and URL shortener. Below are their requirement
 
 ## Getting Started	
 
-Requirments for running the Simple HTTP Web Server are:
+Requirements for running the Simple HTTP Web Server are:
 - [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
 - [.NET Framework 4.7.2.](https://dotnet.microsoft.com/download/dotnet-framework/net472)
 
-Requirments for running the URLShortener are:
+Requirements for running the URLShortener are:
 - [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
 - [.NET Core SDK 3.1.](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.302-windows-x64-installer)
 
@@ -22,7 +22,7 @@ Build and Run the application in debug mode:
 
 This produces a blank window screen which represents our server waiting for a request from the client.
 
-Enter this Url in any Browser:     http://localhost:8080
+Enter this URL in any Browser:     http://localhost:8080
 
 Two things happen, first the window now displays the details from your HTTP request including the Type: “Get”, HTTP version: 1.1, some browser details via headers including the host: localhost, followed by the server port which you typed in as 8080.  Also, your browser now shows a rendered page similar to:
 
@@ -44,7 +44,7 @@ From here you can click “return” to redisplay the original page and try agai
 
 This completes the demonstration of a Simple Http Web Server. 
 
-## Demonstration of PRD Test Requirements for URL Shortner 
+## Demonstration of PRD Test Requirements for URL Shortener   
 
 Load the UrlShortener Solution in Visual Studio, I am using 2019 Community.
 

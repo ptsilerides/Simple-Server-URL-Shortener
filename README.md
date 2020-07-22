@@ -4,7 +4,9 @@ This repo contains a basic server. Below are steps on how to run the server.
 
 ## Getting Started	
 
-Requirments for running the below are Visual Studio and .NET Framework 4.7.2.
+Requirments for running the Simple HTTP Web Server are Visual Studio and .NET Framework 4.7.2.
+
+Requirments for running the UrlShortener are Visual Studio and .NET Framework 4.7.2.
 
 ## Demonstration of a Simple HTTP Web Server
 
@@ -39,3 +41,20 @@ From here you can click “return” to redisplay the original page and try agai
 This completes the demonstration of a Simple Http Web Server. 
 
 ## Demonstration of PRD Test Requirements for URL Shortner 
+
+Load the UrlShortener Solution in Visual Studio, I am using 2019 Community.
+
+Build and Run the application in Visual Studio. A new page should open in your default browser as below:
+
+![](Images/Picture5.png)
+
+Please enter the 3 required fields and click the blue button to “Shorten Url”.
+
+A new page will be displayed with the key data lines shown below:
+
+![](Images/Picture6.png)
+
+Click the second link, the Short URL. This will redirect you to a page whose actual URL value will be the Original URL. 
+
+This completes the demonstration of the URL Shortnener. 
+

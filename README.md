@@ -7,18 +7,18 @@ This repo contains a basic server. Below are steps on how to run the server.
 Requirments for running the Simple HTTP Web Server are:
 - Visual Studio 2019
 https://visualstudio.microsoft.com/downloads/
-[Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
+- [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
 - .NET Framework 4.7.2.
 https://dotnet.microsoft.com/download/dotnet-framework/net472
-[.NET Framework 4.7.2.](https://dotnet.microsoft.com/download/dotnet-framework/net472)
+- [.NET Framework 4.7.2.](https://dotnet.microsoft.com/download/dotnet-framework/net472)
 
 Requirments for running the URLShortener are:
 - Visual Studio 2019
 https://visualstudio.microsoft.com/downloads/
-[Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
+- [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
 - .NET Core SDK 3.1.
 https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.302-windows-x64-installer
-[.NET Core SDK 3.1.](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.302-windows-x64-installer)
+- [.NET Core SDK 3.1.](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.302-windows-x64-installer)
 
 ## Demonstration of a Simple HTTP Web Server
 

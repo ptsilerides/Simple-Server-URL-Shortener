@@ -10,7 +10,7 @@ Requirements for running the Simple HTTP Web Server are:
 
 Requirements for running the URLShortener are:
 - [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
-- [.NET Core SDK 3.1.](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.302-windows-x64-installer)
+- [.NET Core SDK 2.1](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-2.1.808-windows-x64-installer)
 
 ## Demonstration of a Simple HTTP Web Server
 

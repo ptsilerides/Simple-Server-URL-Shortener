@@ -1,6 +1,6 @@
-## Simple Server
+## Simple Server & URL Shortener
 
-This repo contains a basic server. Below are steps on how to run the server.
+This repo contains a basic server and URL shortener. Below are their requirements and steps on how to run each.
 
 ## Getting Started	
 

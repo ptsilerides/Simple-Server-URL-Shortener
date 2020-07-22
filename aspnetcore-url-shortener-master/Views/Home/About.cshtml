@@ -1,0 +1,27 @@
+﻿@{ ViewData["Title"] = "URL-Replika Link Shortening Service"; }
+
+<h2>@ViewData["Title"]</h2>
+
+<h2>
+    <h3>Algorithm</h3>
+
+    <p>Store the Replika URL components in database so it has a numeric ID, an convert it to a another base in order to have a "stringified" version of the ID.</p>
+
+    <p>
+        When we have the short URL, the process is:
+        <ul>
+            <li>convert the "stringified" ID to the numeric ID.</li>
+            <li>load the data from DB.</li>
+            <li>redirect to the original URL using an HTTP redirection.</li>
+        </ul>
+    </p>
+
+    <h3>References</h3>
+
+    <p>ShortURL class by delight.im. <a href="https://github.com/delight-im/ShortURL"></a></p>
+
+    <p><a href="https://www.kerstner.at/2012/07/shortening-strings-using-base-62-encoding/"></a></p>
+</h2><div style="background-color:   aliceblue;">
+    <img src="@Url.Content("~/images/logo.png")" alt="logo" style="margin-top: 0px; margin-bottom: 0px" />
+    <font style="font-size: 25px; margin-left:100px; vertical-align:middle"></font>
+</div>

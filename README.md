@@ -2,7 +2,7 @@
 
 This repo contains a basic server and URL shortener. Below are their requirements and steps on how to run each.
 
-## Getting Started	
+## Getting Started
 
 Requirements for running the Simple HTTP Web Server are:
 - [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
